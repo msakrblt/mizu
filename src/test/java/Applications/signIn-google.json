@@ -1,0 +1,3 @@
+{
+  "URL": "https://accounts.google.com/o/oauth2/auth/identifier?client_id=809547857401-quc1veocoeun677i0sd4n9du4ktb300v.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.mizu.com%2FExternalAuthGoogle%2FOauthCallback&response_type=code&scope=email%20profile%20openid&openid.realm&access_type=offline&state&flowName=GeneralOAuthFlow"
+}

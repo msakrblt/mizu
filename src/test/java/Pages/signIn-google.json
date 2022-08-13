@@ -1,0 +1,9 @@
+{
+  "waitPageLoad": {
+    "elementKey": ""
+  },
+  "elements": {
+    "email text": "#identifierId",
+    "next button": "(//span[@class='VfPpkd-vQzf8d'])[2]"
+  }
+}

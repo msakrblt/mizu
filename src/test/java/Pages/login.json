@@ -1,0 +1,13 @@
+{
+  "waitPageLoad": {
+    "elementKey": ""
+  },
+  "elements": {
+    "signIn text": "//h2[@class='login__heading']",
+    "username textbox": "//input[@id='EmailLogin']",
+    "password textbox": "//input[@id='Password']",
+    "login button": "//button[@class='btn btn-primary btn-lg pull-right login__btn js-login-button']",
+    "failed message": "//div[@class='modal-body']",
+    "login with google": "//span[@class='login__social-text login__social-google-text']"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "waitPageLoad": {
+    "elementKey": ""
+  },
+  "elements": {
+    "my account": "(//span[@class='user-menu__title'])[4]"
+  }
+}
