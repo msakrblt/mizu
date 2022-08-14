@@ -8,6 +8,10 @@
     "password textbox": "//input[@id='Password']",
     "login button": "//button[@class='btn btn-primary btn-lg pull-right login__btn js-login-button']",
     "failed message": "//div[@class='modal-body']",
-    "login with google": "//span[@class='login__social-text login__social-google-text']"
+    "failed message button": "//button[@class='btn btn-primary']",
+    "forgot password": "//a[@class='login__forgot-password js-forgot-password']",
+    "email textbox": "//input[@name='Mail']",
+    "forgot password send button": "//button[@class='btn btn-lg btn-primary form-password-recovery__btn js-password-recovery-button']",
+    "forgot password succes message": "//span[@class='password-recovery-result__icon icon-check']"
   }
 }
